@@ -601,7 +601,7 @@ int main() {
 }
 ```
 
-> **我的备注：**注意和python不一样，python里面是True False 
+> 我的备注：注意和python不一样，python里面是True False 
 
 
 
