@@ -1227,7 +1227,7 @@ int main() {
 }
 ```
 
-​>注意python是elif
+​> 注意python是elif
 
 
 
